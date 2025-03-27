@@ -4,7 +4,7 @@
 7
 <type of the robots>
 4
-<limit of the robots>
+<cost of the robots>
 1 2.12
 2 3.19
 3 3.54
